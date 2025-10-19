@@ -1,0 +1,2 @@
+load("/Users/macbook/Desktop/Langton-main/Data/Ants.RData")
+load("/Users/macbook/Desktop/Langton-main/Data/Patches.RData")
